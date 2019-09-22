@@ -1,7 +1,9 @@
 # Test Web App
 A web application powered by ASP.NET Core, React, Node.js, Webpack
 # How to use
+
 1. Run a React application
+
 1.1 Move to a react-app
 ```
 cd react-app
@@ -18,7 +20,9 @@ npm run build
 ```
 webpack-dev-server --mode development
 ```
+
 2. Run an ASP.NET web-service
+
 2.1 Move to a web-service
 ```
 cd web-service
