@@ -36,4 +36,5 @@ dotnet build
 dotnet run
 ```
 3. Open "http://localhost:3000" (by default) in a browser
+
 Feel free to contact an author in case of any questions
