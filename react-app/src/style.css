@@ -1,0 +1,25 @@
+@import url("https://unpkg.com/purecss@1.0.1/build/pure-min.css");
+
+span.radio-group-button {
+    margin-right: 1em;
+}
+
+div.content {
+    margin: 1em;
+}
+
+div.page {
+    margin: 1em;
+}
+
+div.usersTable {
+    margin: 1em;
+}
+
+div.search {
+    margin: 1em;
+}
+
+button.pure-button {
+    margin: 1em;
+}
