@@ -60,7 +60,7 @@ export class UsersTable extends React.Component {
                 <div className='usersTable'>
                     <form className='pure-form'>
                         <input type='text' placeholder='Text for Search...' className='pure-input' onChange={this.hadnleOnChange} />
-                        <button type='submit' className='pure-button' onClick={this.handleSearchClick}> Search </button>
+                        <button type='button' className='pure-button' onClick={this.handleSearchClick}> Search </button>
                     </form>
                 </div>
                 <div className='usersTable'>
